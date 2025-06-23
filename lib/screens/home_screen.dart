@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:weather_app/widgets/cloud_painter.dart';
+import 'package:aplikasicuaca_app/widgets/cloud_painter.dart';
 import '../models/weather.dart';
 import '../services/weather_service.dart';
 
