@@ -32,7 +32,7 @@ class ProfileScreen extends StatelessWidget {
                 ),
               ),
               const Text(
-                'Teknik Informatika',
+                'TEKNIK INFORMATIKA',
                 style: TextStyle(
                   fontSize: 18,
                   color: Colors.white70,
