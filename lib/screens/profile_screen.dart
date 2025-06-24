@@ -14,9 +14,10 @@ class ProfileScreen extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               CircleAvatar(
-                radius: 60,
-                backgroundImage: AssetImage('assets/saya.jpg'),
+                radius: 150,
+                backgroundImage: AssetImage('assets/Spiderman.jpeg'),
                 backgroundColor: Colors.white,
+                
               ),
               const SizedBox(height: 20),
               const Text(
